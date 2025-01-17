@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: ""
+title: "Lizzie Remfry"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a third year PhD student funded by the Wellcome Trust, in Mike Barnes's group at the William Harvey Research Institute, Queen Mary University of London (QMUL). I hold an MRes in Health Data in Practice from QMUL, a MSc in Global Health from the University of Copenhagen, and a BSc in Psychology from University of Exeter. 
+:wave: I am a third year PhD student funded by the Wellcome Trust, in Mike Barnes's group at the William Harvey Research Institute, Queen Mary University of London (QMUL). I hold an MRes in Health Data in Practice from QMUL, a MSc in Global Health from the University of Copenhagen, and a BSc in Psychology from University of Exeter. 
 
 :computer: My research focuses on utilising clinical language models in healthcare and ensuring that models are built in collaboration with patients and healthcare professionals.
 
