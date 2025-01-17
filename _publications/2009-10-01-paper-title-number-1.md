@@ -1,6 +1,8 @@
 ---
 title: "Effectiveness of Digital Interventions for Reducing Behavioral Risks of Cardiovascular Disease in Nonclinical Adult Populations: Systematic Review of Reviews"
 collection: publications
+category: manuscripts
+permalink: /publication/2010-10-01-paper-title-number-2
 date: 2009-10-01
 venue: 'J Med Internet Res'
 doi: 'https://doi.org/10.2196/19688'
