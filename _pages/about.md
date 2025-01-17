@@ -11,6 +11,6 @@ redirect_from:
 
 :computer: My research focuses on utilising clinical language models in healthcare and ensuring that models are built in collaboration with patients and healthcare professionals.
 
-:bulb: I also work as a researcher for We and AI [We and AI](https://weandai.org/) looking at the societal impact of AI, particularly generative AI, has on public good, education, healthcare and other areas. 
+:seedling: I also work as a researcher for We and AI [We and AI](https://weandai.org/) looking at the societal impact of AI, particularly generative AI, has on public good, education, healthcare and other areas. 
 
-:ledger: I run the monthly webinar series for [Data Science for Health Equity Statistical Methods](https://www.datascienceforhealthequity.com/themes/statistical-methods) theme hosting international speakers in deep learning, machine learning and statistical methods in healthcare. Fancy giving us a talk? 
+:orange_book: I run the monthly webinar series for [Data Science for Health Equity Statistical Methods](https://www.datascienceforhealthequity.com/themes/statistical-methods) theme hosting international speakers in deep learning, machine learning and statistical methods in healthcare. Fancy giving us a talk? 
