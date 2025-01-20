@@ -21,7 +21,7 @@ Gold, N., Yau, A., Rigby, B., Dyke, C., **Remfry, E.A.** and Chadborn, T., 2021.
 
 **Remfry, E.**, Henkin, R., Barnes, M.R. and Naik, A., 2024. Exploring Long-Term Prediction of Type 2 Diabetes Microvascular Complications. Machine Learning for Health. arXiv preprint arXiv:2412.01331.
 
-**Remfry, E.**, Henkin, R., Awan, Z., Mathur, R., Barnes, M.R. and Naik, A., 2024. Exploring Fairness in Long-Term Prediction of Type 2 Diabetes Microvascular Complications. Advancements In Medical Foundation Models: Explainability, Robustness, Security, and Beyond.
+**Remfry, E.**, Henkin, R., Awan, Z., Mathur, R., Barnes, M.R. and Naik, A., 2024. Exploring Fairness in Long-Term Prediction of Type 2 Diabetes Microvascular Complications. Advancements In Medical Foundation Models: Explainability, Robustness, Security, and Beyond. Neural Information Processing Systems. 
 
 ## Under review
 
