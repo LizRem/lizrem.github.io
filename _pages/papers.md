@@ -25,8 +25,8 @@ Gold, N., Yau, A., Rigby, B., Dyke, C., **Remfry, E.A.** and Chadborn, T., 2021.
 
 ## Under review
 
-Henkin, R.*, **Remfry, E.***, Reynolds, D.J., Clinch, M. and Barnes, M.R., 2024. Investigating Collaborative Data Practices: a Case Study on Artificial Intelligence for Healthcare Research. arXiv preprint arXiv:2311.18424v2 
+Henkin, R.^, **Remfry, E.**^, Reynolds, D.J., Clinch, M. and Barnes, M.R., 2024. Investigating Collaborative Data Practices: a Case Study on Artificial Intelligence for Healthcare Research. arXiv preprint arXiv:2311.18424v2 
 
 **Remfry, E.**, Reynolds, D.J., Morgado de Queiroz, S., Social Action for Health, Mathur, R., Barnes, M.r., Thomson, A., AI-MULTIPLY PPIE Group and the AI-MULTIPLY Consortium, 2024. Using arts-based methods to include the perspectives of underrepresented groups in the development of artificial intelligence tools in healthcare research.
 
-*joint first author
+^joint first author
