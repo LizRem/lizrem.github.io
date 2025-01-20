@@ -14,6 +14,3 @@ redirect_from:
 :seedling: I also work as a researcher for We and AI [We and AI](https://weandai.org/) looking at the societal impact of AI, particularly generative AI, has on public good, education, healthcare and other areas. 
 
 :orange_book: I run the monthly webinar series for [Data Science for Health Equity Statistical Methods](https://www.datascienceforhealthequity.com/themes/statistical-methods) theme hosting international speakers in deep learning, machine learning and statistical methods in healthcare. Fancy giving us a talk? 
-
-## Publications
-
