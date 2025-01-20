@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Fun"
+permalink: /fun/
+author_profile: true
+---
+
 ## Funding
 £10,000 Queen Mary University of London [Participatory Research Fund](https://www.qmul.ac.uk/publicengagement/funding/participatory-research-fund/)
 
