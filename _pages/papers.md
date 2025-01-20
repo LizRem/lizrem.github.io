@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Papers"
+permalink: /papers/
+author_profile: true
+---
+
 ## Publications
 
 Guler, G., **Remfry, E**., Kherroubi Garcia, I., Barrow, N. & Duarte, T. (2024) Grassroots and non-profit perspectives on generative AI. Joseph Roundtree Foundation, https://www.jrf.org.uk/ai-for-public-good/grassroots-and-non-profit-perspectives-on-generative-ai 
