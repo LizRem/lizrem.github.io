@@ -10,6 +10,3 @@ author_profile: true
 
 £1,000 Queen Mary University of London [Small Grants](https://www.qmul.ac.uk/publicengagement/funding/small-grants/)
 
-## Side projects
-
-## 
