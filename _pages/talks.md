@@ -9,7 +9,7 @@ author_profile: true
 
 "Grassroots and non-profit perspectives on generative AI", UKRI SAINTS CDT, University of York, February 2025. 
 
-"Grassroots and non-profit perspectives on generative AI", Joseph Roundtree Foundation, August 2024. You can read the full report [here](https://www.jrf.org.uk/ai-for-public-good/grassroots-and-non-profit-perspectives-on-generative-ai)
+"Grassroots and non-profit perspectives on generative AI", Joseph Roundtree Foundation, August 2024. You can read the full report [here](https://www.jrf.org.uk/ai-for-public-good/grassroots-and-non-profit-perspectives-on-generative-ai).
 
 "Better Images of AI", DERI Lunch and Learn, Queen Mary University of London, 2023. 
 
@@ -19,6 +19,6 @@ author_profile: true
 ["The Ethical Implications of AI Hype"](https://weandai.org/full-programme-announced/) Webinar, September 2024. Chair for AI Hype Everywhere: Healthcare, Autonomous Weapons & LGBTQ+ Community Examples.
 
 ## Organiser 
-"Humanising AI in Healthcare" Symposium Jan 2024. Queen Mary University of London. Read a blog on the event [here](https://www.apollosocialscience.org/2024/02/21/humanising-ai-in-healthcare-incorporating-social-sciences-in-algorithms/)
+"Humanising AI in Healthcare" Symposium Jan 2024. Queen Mary University of London. Read a blog on the event [here](https://www.apollosocialscience.org/2024/02/21/humanising-ai-in-healthcare-incorporating-social-sciences-in-algorithms/).
 
 Monthly seminar series on Statistical Methods at [Data Science for Health Equity](https://www.datascienceforhealthequity.com/)
