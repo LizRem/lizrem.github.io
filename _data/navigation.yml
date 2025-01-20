@@ -5,14 +5,17 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
 
   - title: "CV"
     url: /files/CV_Remfry.pdf/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/   
+
+  - title: "Fun"
+    url: /fun/  
 
 # - title: "Teaching"
 #   url: /teaching/    
