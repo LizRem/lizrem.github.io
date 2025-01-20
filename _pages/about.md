@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lizzie Remfry"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
