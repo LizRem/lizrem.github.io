@@ -9,7 +9,7 @@ main:
     url: /papers/
 
   - title: "CV"
-    url: /files/CV_Remfry.pdf/
+    url: /files/CV_Remfry.pdf
 
   - title: "Talks"
     url: /talks/   
