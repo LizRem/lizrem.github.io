@@ -6,7 +6,7 @@
 
 main:
   - title: "Papers"
-    url: /papers/
+    url: /papers.md/
 
   - title: "CV"
     url: /files/CV_Remfry.pdf/
@@ -15,7 +15,7 @@ main:
     url: /talks/   
 
   - title: "Fun"
-    url: /fun/  
+    url: /fun.md/  
 
 # - title: "Teaching"
 #   url: /teaching/    
