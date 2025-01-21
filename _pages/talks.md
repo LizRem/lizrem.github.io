@@ -21,4 +21,6 @@ author_profile: true
 ## Organiser 
 "Humanising AI in Healthcare" Symposium, January 2024. Queen Mary University of London. Read a blog on the event [here](https://www.apollosocialscience.org/2024/02/21/humanising-ai-in-healthcare-incorporating-social-sciences-in-algorithms/).
 
+[International Day of Women in Statistics and Data Science](https://www.idwsds.org/) Workshop, October 2024.
+
 Monthly seminar series on Statistical Methods at [Data Science for Health Equity](https://www.datascienceforhealthequity.com/)
