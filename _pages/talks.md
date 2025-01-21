@@ -19,8 +19,8 @@ author_profile: true
 ["The Ethical Implications of AI Hype"](https://weandai.org/full-programme-announced/) Webinar, September 2024. Chair for AI Hype Everywhere: Healthcare, Autonomous Weapons & LGBTQ+ Community Examples.
 
 ## Organiser 
-"Humanising AI in Healthcare" Symposium, January 2024. Queen Mary University of London. Read a blog on the event [here](https://www.apollosocialscience.org/2024/02/21/humanising-ai-in-healthcare-incorporating-social-sciences-in-algorithms/).
+[International Day of Women in Statistics and Data Science](https://www.idwsds.org/) Data Science for Health Equity Workshop, October 2024.
 
-[International Day of Women in Statistics and Data Science](https://www.idwsds.org/) Workshop, October 2024.
+"Humanising AI in Healthcare" Symposium, January 2024. Queen Mary University of London. Read a blog on the event [here](https://www.apollosocialscience.org/2024/02/21/humanising-ai-in-healthcare-incorporating-social-sciences-in-algorithms/).
 
 Monthly seminar series on Statistical Methods at [Data Science for Health Equity](https://www.datascienceforhealthequity.com/)
