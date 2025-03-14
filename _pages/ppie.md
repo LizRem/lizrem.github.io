@@ -1,14 +1,9 @@
 ---
 layout: archive
-title: "Fun"
-permalink: /fun/
+title: "PPIE"
+permalink: /ppie/
 author_profile: true
 ---
-
-## Funding
-£10,000 Queen Mary University of London [Participatory Research Fund](https://www.qmul.ac.uk/publicengagement/funding/participatory-research-fund/)
-
-£1,000 Queen Mary University of London [Small Grants](https://www.qmul.ac.uk/publicengagement/funding/small-grants/)
 
 ## PPIE Materials for AI literacy 
 Much of my worked is centred around working with members of the public on AI topics, co-creating educational materials around AI, and thinking about critical AI literacy. Below are some useful resources I have used in different public and patient involvement and engagement (PPIE) groups to prompt discussion around AI and to grow critical AI literacy. 
