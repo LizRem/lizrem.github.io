@@ -13,6 +13,11 @@ author_profile: true
 ## PPIE Materials for AI literacy 
 Much of my worked is centred around working with members of the public on AI topics, co-creating educational materials around AI, and thinking about critical AI literacy. Below are some useful resources I have used in different public and patient involvement and engagement (PPIE) groups to prompt discussion around AI and to grow critical AI literacy. 
 
+**Animations**
+[What is Artificial Intelligence](https://www.youtube.com/watch?v=N4NZoTW8ekY&ab_channel=DepartmentofSurgeryandCancer) This is a short animation co-produced with PPIE contributors to help explain what AI is, in simple and easy to understand language. The animation is available in English. I find all the resources co-created by the NIHR Imperial BRC useful, you can check them out [here](https://imperialbrc.nihr.ac.uk/2023/06/26/navigating-digital-health-a-guide-to-data-and-artificial-intelligence-in-healthcare/)
+
+[Understanding Patient Data](https://understandingpatientdata.org.uk/introducing-patient-data) This is series of well made and well researched animations explaining patient health data in the UK. 
+
 **Facial Recognition:** 
 How Normal Am I? This tool allows users to experience a facial recognition tool, by sharing access to their webcam an AI tool rates your face, predicting your age, BMI and attractiveness. This is a useful starting point for wider conversations about what facial recognition is useful, and not useful for, the subjectivity of many measures such as attractiveness, and how easy it is to manipulate if you change the lighting, smile, or put on a hat. No personal data is stored. https://www.hownormalami.eu/
 
