@@ -14,8 +14,8 @@ main:
   - title: "Talks"
     url: /talks/   
 
-  - title: "Fun"
-    url: /fun/  
+  - title: "PPIE"
+    url: /ppie/  
 
 # - title: "Teaching"
 #   url: /teaching/    
@@ -23,8 +23,8 @@ main:
 # - title: "Portfolio"
 #  url: /portfolio/
 
-# - title: "Blog Posts"
-#    url: /year-archive/
+- title: "Writing"
+  url: /blogs/
     
- # - title: "Guide"
- #   url: /markdown/
+- title: "Funding"
+  url: /funding/
