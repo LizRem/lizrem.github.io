@@ -1,10 +1,8 @@
 ---
+layout: archive 
 permalink: /funding/
 title: "Funding"
 author_profile: true
-redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
 ---
 
 ## Funding
