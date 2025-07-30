@@ -17,8 +17,5 @@ main:
   - title: "PPIE"
     url: /ppie/
 
-- title: "Writing"
-  url: /blogs/
-    
-- title: "Funding"
-  url: /funding/
+  - title: "Funding"
+    url: /funding/
