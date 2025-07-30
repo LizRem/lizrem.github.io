@@ -21,7 +21,7 @@ Gold, N., Yau, A., Rigby, B., Dyke, C., **Remfry, E.A.** and Chadborn, T., 2021.
 
 **Elizabeth Remfry and Rafael Henkin** (2025). Interoperability of standardised electronichealthcare records facilitates transfer learning. International Conference on Artificial Intelligence in Healthcare.
 
-**Elizabeth Remfry**, Jaya Chaturvedi, Sarah Markham, Elizabeth Ford and Mel Ramasawmy (2025). Co-design of an Animated Video to Explain Large Language Models and Their Use in Research. HealTAC.
+**Elizabeth Remfry**, Jaya Chaturvedi, Sarah Markham, Elizabeth Ford and Mel Ramasawmy (2025). Co-design of an Animated Video to Explain Large Language Models and Their Use in Research. HealTAC. WINNER OF BEST POSTER.
 
 **Remfry, E.**, Henkin, R., Barnes, M.R. and Naik, A., 2024. Exploring Long-Term Prediction of Type 2 Diabetes Microvascular Complications. Machine Learning for Health. arXiv preprint arXiv:2412.01331.
 
