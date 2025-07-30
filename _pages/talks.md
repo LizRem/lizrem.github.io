@@ -7,6 +7,8 @@ author_profile: true
 
 ## Talks 
 
+"Co-design of an animated video to explain large language models and their use in research", 8th Healthcare Text Analytics Conference, June 2025. WINNER BEST POSTER.
+
 "Using arts-based methods to include the perspectives of underrepresented groups in the development of artificial intelligence tools in healthcare research ", Participatory AI Research & Practice Symposium, February 2025.
 
 "Grassroots and non-profit perspectives on generative AI", UKRI SAINTS CDT, University of York, February 2025. 
