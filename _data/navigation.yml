@@ -12,16 +12,10 @@ main:
     url: /files/CV_Remfry.pdf
 
   - title: "Talks"
-    url: /talks/   
+    url: /talks/
 
   - title: "PPIE"
-    url: /ppie/  
-
-# - title: "Teaching"
-#   url: /teaching/    
-    
-# - title: "Portfolio"
-#  url: /portfolio/
+    url: /ppie/
 
 - title: "Writing"
   url: /blogs/
